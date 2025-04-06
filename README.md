@@ -1,4 +1,4 @@
-<!-- Header Title with Particle Animation Background -->
+<!-- Typing Animation Title -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Quantum+AI+Engineer+%7C+Multi-Agent+Architect;Researcher+%7C+Explorer+%7C+Builder;Let's+Blur+the+Lines+of+Tech+%26+Nature" alt="Typing SVG" />
 </div>
@@ -51,7 +51,7 @@ A taxonomy born from **curiosity**, not just computation.
 
 ---
 
-### 🔁 What Happens Here Every 2 Weeks?
+### 🔁 Every Two Weeks: One Wild AI Use Case
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
@@ -64,7 +64,7 @@ A taxonomy born from **curiosity**, not just computation.
 
 ---
 
-### 🚀 Featured Explorations
+### 🧪 Featured Explorations
 
 | Project | Idea |
 |--------|------|
@@ -73,6 +73,24 @@ A taxonomy born from **curiosity**, not just computation.
 | `Explainable Intent` | Interpretable agents that narrate their logic |
 | `Multi-Agent Swarm Thinkers` | Coordination over communication |
 | `Trustable AI?` | Research-first, transparent decision systems |
+
+---
+
+### 🌱 Echoes of Intelligence  
+*AI is not made. It's grown.*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" />
+</p>
+
+> Algorithms like roots.  
+> Intelligence like light.  
+> Math not as rules — but **rhythms**.  
+> I believe **AI should be interpretable**, inspired by nature, and shaped by curiosity.  
+
+🧮 Sometimes, I make math **look like art**.  
+🌌 Sometimes, I build **models that wander**.  
+⚛️ And sometimes, I let **quantum ideas blur** into everything.
 
 ---
 
@@ -87,16 +105,4 @@ A taxonomy born from **curiosity**, not just computation.
 
 > "This isn’t just code. It’s a **conversation** with reality, trust, and thought itself."
 
----
-
-> 🧬 Coming soon: A podcast on quantum metaphors, weekly AI curiosities, open experiments with agents.  
-> Follow the blur.
-
----
-
-### 🎨 Bonus Animations
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="300" />
-</p>
+> ✨ Follow the blur. Let’s build what doesn’t exist yet.
