@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- 🌌 Animated Banner for Quantum AI -->
+<!-- 🌌 Optimized Quantum Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" alt="Quantum AI Banner"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="80%" alt="Quantum AI Banner"/>
 </p>
 
 ---
@@ -19,6 +19,38 @@ Here, I believe **AI should speak with clarity** — a balance of **science** an
 
 🔍 I build things that blur lines. Lines between **research**, **design**, **understanding**, and **the unknown**.  
 💡 I explore **quantum principles**, **agent-based AI**, and **trustable systems** that **make AI interpretable**.
+
+---
+
+<!-- Funny Quantum GIF -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R6NGEyeWJycXo3ZTZtNGxtcGdxcWVmcWJoYXdobXlqa2QwcmZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rStMbYMDhleLBpqDn/giphy.gif" width="80%" alt="Quantum Animation"/>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Proficiency
+
+#### **Quantum Computing**  
+![Qiskit](https://img.shields.io/badge/Qiskit-Advanced-00FF00)  
+![PennyLane](https://img.shields.io/badge/PennyLane-Mid-00FF00)  
+![Cirq](https://img.shields.io/badge/Cirq-Beginner-00FF00)  
+
+#### **AI/ML Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-00FF00)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Mid-00FF00)  
+![Keras](https://img.shields.io/badge/Keras-Beginner-0000FF)  
+![LangChain](https://img.shields.io/badge/LangChain-Mid-00FF00)  
+
+#### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-Advanced-FFA500)  
+![Julia](https://img.shields.io/badge/Julia-Mid-00FF00)  
+![Rust](https://img.shields.io/badge/Rust-Beginner-FFA500)  
+
+#### **Other Tools**  
+![Git](https://img.shields.io/badge/Git-Advanced-FFA500)  
+![Docker](https://img.shields.io/badge/Docker-Mid-00FF00)  
+![Linux](https://img.shields.io/badge/Linux-Advanced-FFA500)  
 
 ---
 
@@ -58,8 +90,9 @@ I love exploring how **mathematical beauty** plays into the **architecture of in
 
 ### 🔄 **Mathematics: The Language of the Cosmos**
 
+<!-- Custom Quantum GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f0k77gfaXhB93f8yZI/giphy.gif" width="320" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRtZzA3ZDlzMDNxOXR6M3ZrYmR5NjZoY2Uwc3p6eXlsMDlqcW8wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CtqI1GmvT0YVO/giphy.gif" width="80%" alt="Quantum Animation"/>
 </p>
 
 ---
@@ -80,10 +113,31 @@ I’m using **multi-agent frameworks**, inspired by **LangChain**, **SmolAgent**
 
 ---
 
-### 🔗 Let's Connect
+### 🕒 **AI Use Cases: Making LLMs Speak the Truth**
 
-[![Topmate](https://img.shields.io/badge/Talk%20to%20Me-Topmate-8A2BE2?style=for-the-badge&logo=appveyor)](https://topmate.io/ahmed33)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-walker404-%23FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/walker404/)
+Every **3 weeks**, I share insights and practical examples on how to make **Large Language Models (LLMs)** more transparent and truthful. This initiative aims to address one of the biggest challenges in AI today: ensuring that models don’t just generate plausible-sounding text but actually provide accurate, reliable, and trustworthy information.
+
+#### Why Does This Matter?
+- **Misinformation**: LLMs can sometimes "hallucinate" facts or generate misleading content.  
+- **Trust**: Users need to trust AI systems before adopting them widely.  
+- **Ethics**: Building ethical AI requires transparency and accountability.
+
+#### How Do I Approach This?
+1. **Fact-Checking Mechanisms**: Integrating external knowledge bases to verify outputs.  
+2. **Explainability**: Adding layers of interpretability so users can understand *why* the AI made a decision.  
+3. **Feedback Loops**: Creating systems that learn from user corrections over time.  
+
+#### Recent Examples:
+- **Week 1**: Built a prototype that flags uncertain responses with "Confidence Scores."  
+- **Week 3**: Experimented with grounding LLM outputs in verified datasets to reduce hallucinations.  
+- **Week 5**: Developed a multi-agent debate system where agents critique each other’s answers for accuracy.  
+
+Stay tuned for updates every **3 weeks** as I continue to push the boundaries of **truthful AI**!
 
 ---
 
+### 🔗 Let's Connect
+
+[![Topmate](https://img.shields.io/badge/Talk%20to%20Me-Topmate-8A2BE2?style=for-the-badge&logo=appveyor)](https://topmate.io/ahmed33)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-walker404-%23FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/walker404/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Ben%20Elsouah-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-ben-elsouah-322844231/)
