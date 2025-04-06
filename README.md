@@ -127,10 +127,7 @@ Every **3 weeks**, I share insights and practical examples on how to make **Larg
 2. **Explainability**: Adding layers of interpretability so users can understand *why* the AI made a decision.  
 3. **Feedback Loops**: Creating systems that learn from user corrections over time.  
 
-#### Recent Examples:
-- **Week 1**: Built a prototype that flags uncertain responses with "Confidence Scores."  
-- **Week 3**: Experimented with grounding LLM outputs in verified datasets to reduce hallucinations.  
-- **Week 5**: Developed a multi-agent debate system where agents critique each other’s answers for accuracy.  
+ 
 
 Stay tuned for updates every **3 weeks** as I continue to push the boundaries of **truthful AI**!
 
